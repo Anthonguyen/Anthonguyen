@@ -1,16 +1,23 @@
-## Hi there 👋
+# Xin chào các anh chị em!
+## I am an Electrical Engineer moving through life engineering some electricity.
+### On the side, I bend the electricity to my own purposes through software and hardware development.
 
-<!--
-**Anthonguyen/Anthonguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### You'll catch me using:
+- Python
+- C++
+- KiCad
+- Visual Studio Code
+  - emacs
+  - vim
+- Windows (XP, 7, 10, 11)
+- Linux (Ubuntu + Fedora)
+- Framework Laptop (soon!)
 
-Here are some ideas to get you started:
+### You won't catch me using:
+- Assembly (sorry Cam)
+- Stone and chisel
+- Monkey's Paw
+- Ouija Boards or Luigi Boards
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Here's a limerick for yall:
+> A man walked into the bar. He didn't get very far. He tripped on a rock, lost his left sock, and now somehow he's the czar.
